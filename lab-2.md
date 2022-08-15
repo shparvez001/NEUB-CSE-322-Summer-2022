@@ -1,7 +1,7 @@
 # NEUB CSE 322 Summer 2022 Lab 2
 Start of assembly language lab before hardware are ready.
 
-Find all Codes at  [Lab 2](https://github.com/shparvez001/NEUB-CSE-322-Fall-2021/tree/main/lab-2).
+Find all Codes at  [Lab 2](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-2).
 
 ## Task 1
 Basic Structure of 8086 Assembly code and printing characters.

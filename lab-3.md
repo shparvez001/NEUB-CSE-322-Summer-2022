@@ -1,7 +1,7 @@
 # NEUB CSE 322 Summer 2022 Lab 3
 Start of assembly language lab before hardware are ready.
 
-Find all Codes at  [Lab 3](https://github.com/shparvez001/NEUB-CSE-322-Fall-2021/tree/main/lab-3).
+Find all Codes at  [Lab 3](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-3).
 
 
 ## Task 1
