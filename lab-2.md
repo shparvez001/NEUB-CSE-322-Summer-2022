@@ -221,3 +221,5 @@ Take 2 input numbers from 0-4 and print the sum of the numbers in new line
 ```asm
 Solution to be done by students
 ```
+## Tasks to be done by students
+1. Task 7: Take 2 input numbers from 0-4 and print the sum of the numbers in new line
