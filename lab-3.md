@@ -4,8 +4,7 @@ Find all Codes at  [Lab 3](https://github.com/shparvez001/NEUB-CSE-322-Summer-20
 
 
 ## Task 1
-Write a program to (a) prompt the user, (b) read first, middle, and last initials of a person's name, and (c) display them down the
-left margin.
+Write a program to (a) prompt the user, (b) read first, middle, and last initials of a person's name, and (c) display them down the left margin.
 
 Sample execution:
 ```

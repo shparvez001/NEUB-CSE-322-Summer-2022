@@ -16,8 +16,7 @@ CSE 322 class notebook
 
 
 3. [Lab 3](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-3.md).
-	  1. Write a program to (a) prompt the user, (b) read first, middle, and last initials of a person's name, and (c) display them down the
-	  left margin.
+	  1. Write a program to (a) prompt the user, (b) read first, middle, and last initials of a person's name, and (c) display them down the left margin.
 	  2. Take 6 characters as input and print them in new lines.
 	  3. Write a program to draw a 10*10 solid box of star.
 	  4. Write a program to draw a 10*10 hollow box of stars
@@ -26,7 +25,21 @@ CSE 322 class notebook
 	  7. A basic `while (1)` loop
 	  8. Loop without use of `loop` instructions.
 	  9. Write a program to take a hexadecimal, A-F as input and print its equivalent decimal in the next line.
-	  10. suppose AX and BX contain signed numbers. Write some code to put the biggest one in cx.
+	  10. Suppose AX and BX contain signed numbers. Write some code to put the biggest one in cx.
 	  11. Replace the number in AX by its absolute value.
 	  12. Write a program to (a) display "?", (b) read three initials,(c) display them in the middle of an 11 x 11 box of asterisks.
 	  13. Draw a 10*10 box of stars without using any string. Use only flow control instructions and loop to draw the box.
+4. [Lab 4](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-4.md).
+	  1. Suppose AL and BL contain extended ASCII characters. Display the one that comes first in the character sequence.
+	  2. If AX contains a negative number, put -1 In BX; if AX contains 0, put 0 In BX; if AX contains a positive number, put 1 In BX.
+	  3. If AL contains 1 or 3, display "o"; if AL contains 2 or 4,display "e".
+	  4. Take a number from 0-9 as input and print if it is odd or even.
+	  5. Read a character, and if it's an uppercase letter, display it.
+	  6. Read a character. If it's "y" or "Y", display it; otherwise, terminate the program.
+	  7. Write some code to count the number of characters In an input line.
+	  8. Write some code to read characters until a blank is read.
+	  9. Write a program to display the extended ASCII characters (ASCII codes 80h to FFh). Display 10 characters per line, separated by blanks. Stop after the extended characters have been displayed once.
+	  10. Write a program that will prompt the user to enter a hex digit character ("0"·... "9" or "A" ... "F"), display it on in decimal. If the user enters an illegal character, display 'i' to indicate invalid input and allow to enter new hex number.
+	  11. Do task 10 but if three invalid input is given, terminate the program
+	  12. Write a program to display a "?", read two capital letters, and display them on the next line in alphabetical order.
+	  13. Write a code to take a string input and print the first and last capital letters in the string as appeared in the string
