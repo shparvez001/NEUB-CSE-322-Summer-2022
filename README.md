@@ -55,4 +55,5 @@ CSE 322 class notebook
 	9. Write a code to take an input string and print the string in reverse.
 	10. Introduction to procedure
 	11. Write a code with a multiply procedure.
-	12.
+	12. Multiplication procedure by addition
+	13. Multiply and division instruction
