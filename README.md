@@ -43,3 +43,16 @@ CSE 322 class notebook
 	  11. Do task 10 but if three invalid input is given, terminate the program
 	  12. Write a program to display a "?", read two capital letters, and display them on the next line in alphabetical order.
 	  13. Write a code to take a string input and print the first and last capital letters in the string as appeared in the string
+5. [Lab 5](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-5.md).
+	1. Introduction to logical instructions
+	2. Use TEST instruction to check if the register AX has a value 0 or not. If AX contains 0 print 0 otherwise do nothing.
+	3. Use logical instructions to check if an input number is odd or even. If the number is odd print 'O' if even print 'E'.
+	4. Use only logical instruction to convert characters from uppercase to lowercase
+	5. Use only logical instruction to convert characters from lowercase to uppercase
+	6. Use logical instructions to do a case flip. If the input is uppercase convert to lowescase and 	if input is lowercase convert to uppercase.
+	7. Rotate and shift instructions
+	8. Introduction to Stack
+	9. Write a code to take an input string and print the string in reverse.
+	10. Introduction to procedure
+	11. Write a code with a multiply procedure.
+	12.
