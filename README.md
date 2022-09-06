@@ -57,3 +57,11 @@ CSE 322 class notebook
 	11. Write a code with a multiply procedure.
 	12. Multiplication procedure by addition
 	13. Multiply and division instruction
+6. [Lab 6](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-6.md).
+	1. Decimal input output procedure
+	2. Write a procedure to find the factorial of a number stored in cx.
+	3. Take 2 decimal numbers greater than 10 as inputs and print their sum,  difference, and product afterwards.
+	4. Sum of 10 elements in array
+	5. Sum of elements in array ending with $
+	6. Array (Each element is 16 bit) Reverse Procedure
+	7. Finding the average of different tests
