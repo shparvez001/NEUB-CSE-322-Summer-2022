@@ -485,13 +485,9 @@ END MAIN
 ## Tasks to be done by students
 1. Task 3: Take 2 decimal numbers greater than 10 as inputs and print their sum,  difference, and product afterwards.
 2. Add hex input output  and binary input output procedure to the decimal input out put procedure and do the following tasks.
-
   a. put the last 5 digit of your registration number in ax (Treat the number as decimal) and print their equivalent binary and hexadecimal number.
-
   b.  put the last 5 digit of your registration number in ax (Treat the number as hexadecimal) and print their equivalent binary and decimal number.
-
-  c. put 100010101010 in ax and print the equivalent decimal and hexadecimal number.
-  
+  c. put 100010101010 in ax and print the equivalent decimal and hexadecimal number.  
   d. take hexadecimal input, binary input, decimal input
 3. Chapter 8 problem 8
 4. Chapter 8 problem 10
