@@ -7,8 +7,6 @@ Basic Input and output code for AVR.
 
 Circuit:
 
-![Lab 8 Task 1 Circuit Schematic](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2022/main/lab-8/CSE-322-2202-lab8-task-1CKT_schem.png)
-
 ![Lab 8 Task 1 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2022/main/lab-8/CSE-322-2202-lab8-task-1CKT_bb.png)
 
 
@@ -34,6 +32,10 @@ int main()
 
 ## Task 2
 LED blinking code in AVR.
+
+Circuit:
+
+![Lab 8 Task 2 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2022/main/lab-8/CSE-322-2202-lab8-task-2CKT_bb.png)
 ```c
 #include<avr/io.h>
 #include<util/delay.h>
