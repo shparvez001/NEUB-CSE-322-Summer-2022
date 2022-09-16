@@ -569,14 +569,15 @@ END MAIN
 ```
 
 ## Tasks to be done by students
-1. Task 3: Take 2 decimal numbers greater than 10 as inputs and print their sum,  difference, and product afterwards.
-2. Add hex input output  and binary input output procedure to the decimal input out put procedure and do the following tasks.
-  a. put the last 5 digit of your registration number in ax (Treat the number as decimal) and print their equivalent binary and hexadecimal number.
-  b.  put the last 5 digit of your registration number in ax (Treat the number as hexadecimal) and print their equivalent binary and decimal number.
-  c. put 100010101010 in ax and print the equivalent decimal and hexadecimal number.  
-  d. take hexadecimal input, binary input, decimal input
-3. Chapter 8 problem 8
-4. Chapter 8 problem 10
-5. Change the code in task 6 to work for array of 8-bit elements, which can be used to reverse string.
-6. Section 10.3: Application of sorting. Program listing 10.2,10.3
-7. Change the code in task 8 to find the average test score of each students.
+1. Change the code in task 2 such that the encoding and decoding works for both small letter and capital letter.
+2. Change the code in task 2 such that a letter is replaced by three letters ahead. For example, A becomes D and B becomes E
+3. Change the code in hometask 2 to encode both capital and small letters
+4. Chapter 9 Problem 9
+5. Chapter 9 Problem 10
+6. Chapter 9 Problem 11
+7. Chapter 9 Problem 12
+8. Chapter 10 Problem 7
+9. Chapter 10 Problem 9
+10. Chapter 10 Problem 10
+11. Change the read_str and print_str procedures of problem 5 so that there is no necessity of counter of length of string. Simply add a $ at the end of string to identify end of string
+12. Section 11.6 : Compare String (Program listing 11.5)
