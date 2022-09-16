@@ -75,3 +75,5 @@ CSE 322 class notebook
 	7. Use of SCASB instruction and REPNZ prefix.
 	8. Counting vowels and consonants using scan string instruction
 8. [Lab 8](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-8.md).
+	1. Configuring input and output
+	2. Using delay to flash LED
