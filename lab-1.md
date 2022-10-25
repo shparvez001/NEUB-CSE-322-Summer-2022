@@ -34,7 +34,7 @@ General Discussion on lab and finalizing tools to be used.
 |Group | Members|
 |---------|--------|
 |1|Al Amin, Sajib, Jahed|
-|2|Muttalib, Kopil, Shahriar|
+|2|Mutalib, Kopil, Shahriar|
 |3|Mansura, Jannah, Sourov|
 |4|Pritom, Akhi|
 |5|Jahid, Akil|
