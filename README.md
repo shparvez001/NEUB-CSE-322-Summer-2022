@@ -77,3 +77,28 @@ CSE 322 class notebook
 8. [Lab 8](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-8.md).
 	1. Configuring input and output
 	2. Using delay to flash LED
+9. [Lab 9](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-9.md).
+	1. EEPROM read and write code.
+	2. Using EEPROM to store a pattern of LED and pulsing through the pattern.
+	3. Create a function to output PWM with a specified duty cycle to any given port. eg: pwm(port, dutyCycle);.
+10. [Lab 10](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-10.md).
+	1. Reading analong value using built-in ADC.
+	2. Reading voltage using built-in ADC and showing it inb serial monitor.
+	3. Using LDR as sensor.
+	4. Basic switch Operation.
+11. [Lab 11](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-11.md).
+	1. Write an arduino code change the status of LED (on or off) based on switch input.
+	2. Write an arduino code change the status of LED (on or off) based on switch input with a debounce delay of 50us.
+	3. Using switch with interrupt.
+12. [Lab 12](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-12.md).
+	1. Using switch with interrupt.
+	2. Write a code to drive a dc motor using L298 motor driver.
+13. [Lab 13](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-13.md).
+	1. Write a code to drive dc motors using L298 motor driver. Different movement should be incorporated using individual functions.
+	2. Write a code to drive dc motors with variable speed using L298 motor driver. Different movement should be incorporated using individual functions.
+14. [Lab 14](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-14.md).
+	1. Write a code to drive dc motors with variable speed using L298 motor driver. Different movement should be incorporated using individual functions.
+	2. Servo motor driving.
+15. [Lab 15](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-15.md).
+	1. Write a code for light follower robot.
+	2. Design a line following car that can follow a black line on white background.
