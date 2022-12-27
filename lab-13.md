@@ -98,3 +98,7 @@ Code
 ```c
 //To be done by students
 ```
+
+## Tasks to be done by students
+1. Change the code in task 1 to include backward right, backward left and brake functionality.
+2. Change the code in task 2 to include backward right, backward left and brake functionality.
