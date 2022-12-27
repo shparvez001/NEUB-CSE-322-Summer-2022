@@ -94,9 +94,8 @@ CSE 322 class notebook
 	1. Using switch with interrupt.
 	2. Write a code to drive a dc motor using L298 motor driver.
 13. [Lab 13](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-13.md).
-	1. Write an arduino code change the status of LED (on or off) based on switch input.
-	2. Write an arduino code change the status of LED (on or off) based on switch input with a debounce delay of 50us.
-	3. Using switch with interrupt.
+	1. Write a code to drive dc motors using L298 motor driver. Different movement should be incorporated using individual functions.
+	2. Write a code to drive dc motors with variable speed using L298 motor driver. Different movement should be incorporated using individual functions.
 14. [Lab 14](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-14.md).
 	1. Write an arduino code change the status of LED (on or off) based on switch input.
 	2. Write an arduino code change the status of LED (on or off) based on switch input with a debounce delay of 50us.
