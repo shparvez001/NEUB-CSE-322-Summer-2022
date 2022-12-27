@@ -100,6 +100,5 @@ CSE 322 class notebook
 	1. Write a code to drive dc motors with variable speed using L298 motor driver. Different movement should be incorporated using individual functions.
 	2. Servo motor driving.
 15. [Lab 15](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-15.md).
-	1. Write an arduino code change the status of LED (on or off) based on switch input.
-	2. Write an arduino code change the status of LED (on or off) based on switch input with a debounce delay of 50us.
-	3. Using switch with interrupt.
+	1. Write a code for light follower robot.
+	2. Design a line following car that can follow a black line on white background.
