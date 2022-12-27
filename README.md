@@ -77,3 +77,7 @@ CSE 322 class notebook
 8. [Lab 8](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-8.md).
 	1. Configuring input and output
 	2. Using delay to flash LED
+9. [Lab 9](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-9.md).
+	1. EEPROM read and write code.
+	2. Using EEPROM to store a pattern of LED and pulsing through the pattern.
+	3. Create a function to output PWM with a specified duty cycle to any given port. eg: pwm(port, dutyCycle);.
