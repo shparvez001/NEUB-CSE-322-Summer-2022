@@ -81,3 +81,8 @@ CSE 322 class notebook
 	1. EEPROM read and write code.
 	2. Using EEPROM to store a pattern of LED and pulsing through the pattern.
 	3. Create a function to output PWM with a specified duty cycle to any given port. eg: pwm(port, dutyCycle);.
+10. [Lab 10](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-10.md).
+	1. Reading analong value using built-in ADC.
+	2. Reading voltage using built-in ADC and showing it inb serial monitor.
+	3. Using LDR as sensor.
+	4. Basic switch Operation.
