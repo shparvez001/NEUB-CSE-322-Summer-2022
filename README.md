@@ -86,3 +86,7 @@ CSE 322 class notebook
 	2. Reading voltage using built-in ADC and showing it inb serial monitor.
 	3. Using LDR as sensor.
 	4. Basic switch Operation.
+11. [Lab 11](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-11.md).
+	1. Write an arduino code change the status of LED (on or off) based on switch input.
+	2. Write an arduino code change the status of LED (on or off) based on switch input with a debounce delay of 50us.
+	3. Using switch with interrupt.
